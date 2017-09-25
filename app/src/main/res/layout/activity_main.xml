@@ -9,23 +9,23 @@
     tools:context="llf.gitandroid.MainActivity">
 
     <Button
-        android:id="@+id/btn_first"
+        android:id="@+id/btn_mall"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:text="第一页"
+        android:text="商城"
         />
 
     <Button
-        android:id="@+id/btn_second"
+        android:id="@+id/btn_topic"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:text="第二页"
+        android:text="社区"
         />
 
     <Button
-        android:id="@+id/btn_third"
+        android:id="@+id/btn_mine"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:text="第三页"
+        android:text="我的"
         />
 </LinearLayout>
