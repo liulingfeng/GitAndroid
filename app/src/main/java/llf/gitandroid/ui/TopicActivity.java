@@ -2,7 +2,6 @@ package llf.gitandroid.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-
 import llf.gitandroid.R;
 import llf.gitandroid.base.BaseActivity;
 
